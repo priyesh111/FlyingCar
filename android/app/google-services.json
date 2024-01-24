@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114952834901",
+    "project_id": "carapp-da674",
+    "storage_bucket": "carapp-da674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114952834901:android:600451205e303a7c3469dc",
+        "android_client_info": {
+          "package_name": "com.example.car_selling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114952834901-sbllpa7d4u3nfp9to9htqdfist3hnfke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexri45SAicXMfBK0VfT4f7fPHQVlac4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114952834901-sbllpa7d4u3nfp9to9htqdfist3hnfke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
